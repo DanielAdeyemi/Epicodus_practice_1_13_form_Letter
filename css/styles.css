@@ -2,6 +2,7 @@
   border: darkorchid 3px solid;
   padding: 5px 10px 5px 20px;
   border-radius: 10px;
+  display: none;
 }
 
 div {

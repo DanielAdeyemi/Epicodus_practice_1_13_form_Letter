@@ -1,8 +1,8 @@
 $(document).ready(function() {
-  $(".input-group").submit(function() {
-    let name = $("input.form-control").val();
-    $("#name").text(name);
+  $("form").submit(function(event) {
+    let name = $("input#name").val();
+    $("#output").text(name);
     $(".letter").show();
     event.preventDefault();
-  })
+  });
 });
