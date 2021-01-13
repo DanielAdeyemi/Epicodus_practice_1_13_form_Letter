@@ -1,0 +1,20 @@
+.letter {
+  border: darkorchid 3px solid;
+  padding: 5px 10px 5px 20px;
+  border-radius: 10px;
+}
+
+div {
+  margin: 20px 20px 20px 20px;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: darkblue;
+}
+
+.button {
+  margin-left: 50px;
+}
